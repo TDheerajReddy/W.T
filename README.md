@@ -1,3 +1,3 @@
 # W.T
 Web Technology
-This is HTML and CSS coding snippets. You can Copy, Download and Share it with your friends.☺
+This is HTML, CSS and VBScript coding snippets. You can Copy, Download RAR file and Share it with your friends.☺
